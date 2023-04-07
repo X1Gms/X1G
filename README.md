@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XIGmaster
-- 👀 I’m interested in .NET Programming
-- 🌱 I’m currently learning C# and JavaScript and its libraries.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on UBlocks
 - 📫 How to reach me ...
 
 <!---
