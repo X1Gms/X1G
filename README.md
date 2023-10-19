@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XIGmaster
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on UBlocks
+- 💞️ I’m looking to collaborate with anyone who offers good conditions and be honest with me
 - 📫 How to reach me ...
 
 <!---
